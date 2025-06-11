@@ -1,6 +1,8 @@
 Welcome to My Project
 Project Overview
 This is a project I built using modern web development tools. It’s designed for performance, scalability, and ease of development.
+![image](https://github.com/user-attachments/assets/1614fb97-7288-41e9-a274-044571baccab)
+
 
 How to Run the Project Locally
 Make sure you have Node.js and npm installed. If not, you can install them using nvm.
