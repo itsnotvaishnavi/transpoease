@@ -2,6 +2,10 @@ Welcome to My Project
 Project Overview
 This is a project I built using modern web development tools. It’s designed for performance, scalability, and ease of development.
 ![image](https://github.com/user-attachments/assets/1614fb97-7288-41e9-a274-044571baccab)
+![image](https://github.com/user-attachments/assets/dcfce6f5-d999-4e76-b96b-b7c13c2c9f2d)
+![image](https://github.com/user-attachments/assets/2c047c93-b7d4-4764-bc71-8976ad87f8eb)
+
+
 
 
 How to Run the Project Locally
